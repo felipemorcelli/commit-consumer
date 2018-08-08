@@ -1,0 +1,3 @@
+class CommitConsumer
+
+end
