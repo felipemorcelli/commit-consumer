@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "CommitConsumer for Dinda"
   s.authors     = ["Felipe Morcelli"]
   s.email       = 'felipemorcelli@gmail.com'
-  s.files       = ["lib/connect.rb"]
+  s.files       = ["lib/commit_consumer.rb"]
   s.homepage    = 'https://github.com/felipemorcelli/commit-consumer'
   s.license     = 'MIT'
 end
